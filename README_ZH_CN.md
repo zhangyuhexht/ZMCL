@@ -4,7 +4,7 @@ ZYH Minecraft Launcher（简称 ZMCL）是一个面向 Android 的 Minecraft Jav
 
 ## 当前源码
 
-当前滚动开发源码位于 `debug1.12` 文件夹。为了保持现有 Gradle 构建兼容性，应用模块目录仍然是 `ZalithLauncher/`，但 Gradle 模块名为 `:ZMCL`，应用包名、应用身份和所有用户可见品牌均为 ZMCL。当前启动器版本为 `1.20.1`（`versionCode=100019`）。
+仓库根目录即完整源码。为了保持现有 Gradle 构建兼容性，应用模块目录仍然是 `ZalithLauncher/`，但 Gradle 模块名为 `:ZMCL`，应用包名、应用身份和所有用户可见品牌均为 ZMCL。当前启动器版本为 `1.20.1`（`versionCode=100019`）。
 
 当前界面重点包括：
 
@@ -16,7 +16,7 @@ ZYH Minecraft Launcher（简称 ZMCL）是一个面向 Android 的 Minecraft Jav
 
 ## 构建
 
-使用 Android Studio 打开 `debug1.12/`。构建环境以 Gradle 配置为准：
+使用 Android Studio 打开仓库根目录。构建环境以 Gradle 配置为准：
 
 - JDK 17（Gradle Daemon 可使用 JDK 21）
 - Gradle 9.4.1
