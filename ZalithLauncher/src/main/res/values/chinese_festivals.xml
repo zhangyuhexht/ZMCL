@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+    <string name="festivals_spring">Happy Spring Festival!</string>
+    <string name="festivals_qing_ming">Have a peaceful Qingming Festival!</string>
+    <string name="festivals_dragon_boat">Happy Dragon Boat Festival!</string>
+    <string name="festivals_mid_autumn">Happy Mid-Autumn Festival!</string>
+    <string name="festivals_national_day">Happy National Day!</string>
+</resources>

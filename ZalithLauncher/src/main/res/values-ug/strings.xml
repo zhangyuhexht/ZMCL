@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="generic_cancel">賯丕賷賶鬲賶卮</string>
+    <string name="generic_confirm">噩蹠夭賶賲賱蹠卮鬲蹐乇蹐卮</string>
+    <string name="generic_error">禺丕鬲丕</string>
+    <string name="generic_tip">卅蹠爻賰蹠乇鬲賶卮</string>
+    <string name="generic_warning">卅丕诏丕诰賱丕賳丿蹏乇蹏卮</string>
+    <string name="generic_back">賯丕賷鬲賶卮</string>
+    <string name="generic_refresh">賷賶诃賶賱丕卮</string>
+    <string name="generic_reset">賯丕賷鬲丕 鬲蹠诃卮蹠卮</string>
+    <string name="generic_delete">賷蹏賷蹏卮</string>
+    <string name="generic_rename">賯丕賷鬲丕 卅賶爻賶賲 賯賵賷蹏卮</string>
+    <string name="generic_copy">賰蹎倬蹠賷鬲賶卮</string>
+    <string name="generic_paste">趩丕倬賱賶丕卮</string>
+    <string name="generic_more">鬲蹛禺賶賲蹏 賰蹎倬</string>
+    <string name="generic_setting">鬲蹠诃卮蹠卮</string>
+    <string name="generic_expand">卅蹛趩賶卮</string>
+    <string name="generic_collapse">賷賶睾賶卮鬲蹏乇蹏卮</string>
+    <string name="generic_main_menu">卅丕爻丕爻賶賷 鬲賶夭賶賲賱賶賰</string>
+    <string name="generic_download">趩蹐卮蹐乇蹐卮</string>
+    <string name="generic_done">卅賵乇蹏賳賱賶丕賳丿賶</string>
+    <string name="generic_close">鬲丕賯丕卮</string>
+    <string name="generic_clear">鬲丕夭賶賱丕卮</string>
+    <string name="generic_import">賰賶乇诏蹐夭蹐卮</string>
+    <string name="generic_enable">賯賵夭睾賶鬲賶卮</string>
+    <string name="generic_disable">趩蹠賰賱蹠卮</string>
+    <string name="generic_open_link">賰蹎乇诏蹐趩鬲蹠 夭賶賷丕乇蹠鬲 賯賶賱賶卮</string>
+    <string name="generic_cannot_empty">賲蹠夭賲蹏賳 亘賵卮 賯丕賱爻丕 亘賵賱賲丕賷丿蹏!</string>
+    <string name="generic_input_invalid_character">卅賶爻賶賲 卅賶趩賶丿蹠 卅賶賳丕蹕蹠鬲爻賶夭 诰蹠乇倬 亘丕乇: 鈥?s鈥?</string>
+    <string name="generic_input_failed_to_number">賰賶乇诏蹐夭诏蹠賳 賲蹠夭賲蹏賳賱丕乇賳賶 乇蹠賯蹠賲诏蹠 卅丕賷乇賶卮賯丕 亘賵賱賲丕賷丿蹏</string>
+    <string name="generic_input_too_small">"賰賶乇诏蹐夭诏蹠賳 爻丕賳  %s丿賶賳 賰賶趩賶賰 亘賵賱賲丕爻賱賶賯賶 賰蹛乇蹠賰"</string>
+    <string name="generic_input_too_large">賰賶乇诏蹐夭诏蹠賳 %s 卅蹛卮賶倬 賰蹠鬲賲蹠爻賱賶賰賶 賰蹛乇蹠賰</string>
+    <string name="generic_input_length">%1$d/%2$d :鬲蹛賰賶爻鬲 亘賵卮賱蹏賯賶丿賶賰賶 禺蹠鬲 爻丕賳賶</string>
+    <string name="generic_unpacking">诰丕夭賶乇 亘蹛爻賶賲賳賶 鬲蹎蹕蹠賳賱賶鬲賶蹕丕鬲賶丿蹏%s</string>
+    <string name="generic_unknown">賳丕賲蹠賱蹏賲</string>
+    <string name="generic_follow_global">倬蹐鬲蹐賳 卅蹠诏賶卮賶卮</string>
+    <string name="generic_custom">卅蹎夭賶 亘蹠賱诏賶賱蹠卮</string>
+    <string name="generic_search">卅賶夭丿蹠卮</string>
+    <string name="generic_loading">賰賶乇诏蹐夭賶蹕丕鬲賶丿蹏</string>
+    <string name="generic_in_progress">卅賶噩丕乇蹠 賯賶賱賶賳賶蹕丕鬲賶丿蹏</string>
+    <string name="generic_anyway">趩蹏賯蹏賲 卅賶卮賱賶鬲賶卮</string>
+    <string name="generic_got_it">賲蹠賳 趩蹐卮蹠賳丿賶賲</string>
+    <string name="generic_ignore">爻蹠賱 賯丕乇丕卮</string>
+    <string name="generic_authorization">诰賵賯蹏賯 亘蹛乇賶卮</string>
+    <string name="generic_file_name">诰蹎噩噩蹠鬲 賳丕賲賶: %s</string>
+    <string name="generic_file_size">诰蹎噩噩蹠鬲 趩賵诃-賰賶趩賶賰賱賶賰賶: %s</string>
+    <string name="generic_all">诰蹠賲賲賶爻賶</string>
+    <string name="generic_enabled">賯賵夭睾賶鬲賶賯賱賶賯</string>
+    <string name="generic_disabled">卅蹛鬲賶賮賱賶賰</string>
+    <string name="generic_unspecified">亘蹠賱诏賶賱蹠賳賲賶诏蹠賳</string>
+    <string name="generic_save">爻丕賯賱丕卮</string>
+    <string name="generic_saved">爻丕賯賱丕賳丿賶</string>
+    <string name="generic_share">诰蹠賲亘蹠诰乇賱蹠卮</string>
+    <string name="generic_copied">賰蹎倬蹠賷鬲賶賱丿賶</string>
+    <string name="generic_no_matching_items">卮蹠乇鬲賰蹠 卅蹏賷睾蹏賳 賰蹛賱賶丿賶睾丕賳 鬲蹐乇 賷賵賯</string>
+    <string name="generic_follow_system">爻賶爻鬲蹛賲賶睾丕 卅蹠诏賶卮賶卮</string>
+    <string name="unit_day">賰蹎賳</string>
+    <string name="date_format">MMM d, yyyy, h:mm:ss a</string>
+    <string name="page_title_version_list">賳蹏爻禺丕 鬲賶夭賶賲賱賶賰賶</string>
+    <string name="page_title_version_manage">賳蹏爻禺賶爻賶 亘丕卮賯蹏乇蹏卮</string>
+    <string name="page_title_account_list">卅丕亘蹏賳賶趩賶 鬲賶夭賶賲賱賶賰</string>
+    <string name="page_title_select_files">賷賵賱 鬲丕賱賱丕卮</string>
+    <string name="files_browse_folder">賲蹏賳丿蹠乇賶噩賶賳賶 賰蹎夭丿賶賳 賰蹠趩蹐乇蹐卮</string>
+    <string name="files_importing">讧丕賷賱賶賯 賮丕賷賱賳賶 賰賶乇诏蹐夭卅賶蹕丕鬲賶鬲蹏</string>
+    <string name="files_delete_file">爻賶夭 %s 賳賶 卅蹎趩蹐乇蹐卮賳賶 噩蹠夭賲賱蹠卮鬲蹐乇丿賶诃賶夭賲蹏責</string>
+    <string name="just_now">丿蹠賱</string>
+    <string name="minutes_ago">%d 賲賶賳蹏鬲 亘蹏乇蹏賳</string>
+    <string name="hours_ago">%d 爻丕卅蹠鬲</string>
+    <string name="days_ago">%d 卅丕賱鬲蹠 賰蹐賳 亘蹏乇蹏賳</string>
+    <string name="months_ago">%d 卅丕賷 亘蹏乇蹏賳</string>
+    <string name="years_ago">%d 賷賶賱 亘蹏乇蹏賳</string>
+    <string name="sort_by">鬲蹠乇鬲賶倬賰蹠 爻蹛賱賶卮 卅蹏爻蹏賱賶</string>
+    <string name="sort_by_name">卅賶爻賲賶 亘賵賷賶趩蹠 乇蹠鬲賰蹠 鬲蹏乇睾蹏夭蹏卮</string>
+    <string name="sort_by_file_name">诰蹎噩噩蹠鬲 賳丕賲賶 亘賵賷賶趩蹠 乇蹠鬲賰蹠 鬲賶夭賶卮</string>
+    <string name="sort_by_last_modified">卅蹎夭诏蹠乇鬲賶卮 蹕丕賯鬲賶 亘賵賷賶趩蹠 乇蹠鬲賰蹠 鬲賶夭賶賱丿賶</string>
+    <string name="sort_by_last_played">卅丕賱丿賶賳賯賶 賯蹛鬲賶賲賱賶賯 爻丕賷丕诰蹠鬲 蹕丕賯鬲賶 亘賵賷賶趩蹠 乇蹠鬲賰蹠 鬲賶夭賶賱丿賶</string>
+    <string name="launcher_version_debug_warning">爻賶夭 爻賶賳丕賯 賳蹏爻禺賶爻賶丿賶賰賶%s 賳賶 卅賶卮賱賶鬲賶蹕丕鬲賶爻賶夭 ! 亘蹏 賳蹏爻禺丕 賲蹏賯賶賲 亘賵賱賲丕爻賱賶賯賶 賲蹏賲賰賶賳貙 卅丕爻丕爻賱賶賯賶 卅賶賯鬲賶丿丕乇 爻賶賳賶賯賶貙 賷蹛诃賶賱賶賯賳賶 爻賶賳丕卮 卅蹐趩蹐賳 卅賶卮賱賶鬲賶賱賶丿蹏貙 亘蹏 賳蹏爻禺賶賳賶 卅蹏夭丕賯 賲蹏丿丿蹠鬲 卅賶卮賱賶鬲賶卮 鬲蹠蹕爻賶賷蹠 賯賶賱賶賳賲丕賷丿蹏! 卅蹠诏蹠乇 爻賶夭 爻賶賳丕賯 噩蹠乇賷丕賳賶丿丕 诰蹠乇賯丕賳丿丕賯 賲蹠爻賶賱賶賳賶 亘丕賷賯賶爻賶诃賶夭貙 卅蹠诏蹠乇 Github 亘賶夭诏蹠 卅賶賳賰丕爻 賯賶賱賶诃貙 亘賶夭 鬲蹛夭丿賶賳 亘賶乇 鬲蹠乇蹠倬 賯賶賱賶賲賶夭.</string>
+    <string name="launcher_version_debug_warning_cant_close">亘蹏 卅丕诏丕诰賱丕賳丿蹏乇蹏卮賳賶 鬲丕賯丕賱睾賶賱賶 亘賵賱賲丕賷丿蹏</string>
+    <string name="theme_color_dynamic">诰蹠乇賶賰蹠鬲趩丕賳 (Android 12+)</string>
+    <string name="theme_color_embermire">賷蹐噩賶賳</string>
+    <string name="theme_color_velvet_rose">乇賵诃賲蹛賷</string>
+    <string name="theme_color_mistwave">睾蹏賱丕诃</string>
+    <string name="theme_color_glacier">賲蹏夭賱蹏賯</string>
+    <string name="theme_color_verdant_field">卅蹠爻賱賶賷 丿丕賱丕 卮丕賲賶賱賶</string>
+    <string name="theme_color_urban_ash">鬲賶鬲丕賳 爻丕賷賶爻賶</string>
+    <string name="theme_color_verdant_dawn">鬲賶賳趩 卅賵乇賲丕賳丿賶賰賶 鬲丕诃</string>
+    <string name="theme_color_picker_title">乇蹠诃 鬲丕賱賱賶睾蹏趩</string>
+<string name="about_zmcl_creator_title">ZMCL 卅賶噩丕丿趩賶爻賶</string>
+<string name="about_zmcl_creator_text">zhangyuhexht 鬲蹠乇賶倬賶丿賶賳 賷丕爻丕賱睾丕賳 蹕蹠 卅丕爻乇賶賱賶丿蹏</string>
+
+    <string name="about_zmcl_origin_title">ZMCL 賲蹠賳亘蹠爻賶</string>
+
+    <string name="about_zmcl_origin_text">ZMCL 亘賵賱爻丕 ZMCL 賷丕丿乇賵爻賶 卅蹠鬲乇丕倬賶丿丕 賯丕賷鬲丕 賱丕賷賶诰蹠賱蹠賳诏蹠賳 賲蹏爻鬲蹠賯賶賱 賯賵夭睾丕鬲賯蹏趩 鬲蹠噩乇賶亘賶爻賶</string>
+
+    <string name="about_official_website">乇蹠爻賲賶賷 鬲賵乇 亘蹛賰蹠鬲</string>
+
+    <string name="about_zmcl_special_thanks_title">ZMCL 卅丕賱丕诰賶丿蹠 乇蹠诰賲蹠鬲</string>
+
+    <string name="about_original_inspiration_text">卅蹠爻賱賶 卅賶賱诰丕賲</string>
+</resources>
+

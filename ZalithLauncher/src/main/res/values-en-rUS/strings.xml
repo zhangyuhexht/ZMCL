@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_brand_title">ZMCL</string>
+    <string name="home_brand_subtitle">Material You Launcher</string>
+    <string name="home_nav_home">Home</string>
+    <string name="home_nav_versions">Versions</string>
+    <string name="home_nav_account">Account</string>
+    <string name="home_status_syncing">Syncing library</string>
+    <string name="home_status_ready">Ready to play</string>
+    <string name="home_account_title">Account</string>
+    <string name="home_account_manage">Tap to manage</string>
+    <string name="home_library_title">Library</string>
+    <string name="home_versions_title">Versions</string>
+    <string name="home_current_version_title">Current game version</string>
+    <string name="home_manage_versions">Manage versions</string>
+    <string name="home_launcher_feed">Launcher feed</string>
+    <string name="home_feed_ready">Content is ready</string>
+    <string name="home_feed_empty">No content</string>
+    <string name="home_open_library">Open library</string>
+    <string name="home_no_version_summary">Select or install a playable Minecraft version.</string>
+    <string name="splash_screen_installing">Preparing Java and launcher resources. Please wait.</string>
+    <string name="splash_screen_resources_title">Launcher preparation</string>
+    <string name="splash_screen_resources_ready">All resources are ready. Enter ZMCL when you are ready.</string>
+    <string name="splash_screen_resources_progress">%1$d of %2$d ready</string>
+    <string name="splash_screen_enter_launcher">Enter ZMCL</string>
+    <string name="splash_screen_step_progress">Step %1$d of %2$d</string>
+    <string name="splash_screen_motion_title">Choose animation effects</string>
+    <string name="splash_screen_motion_summary">Control how much motion ZMCL uses throughout the interface.</string>
+    <string name="motion_level_full">Full effects</string>
+    <string name="motion_level_full_summary">Play expressive transitions and small interface movements.</string>
+    <string name="motion_level_standard">Standard effects</string>
+    <string name="motion_level_standard_summary">A balanced motion profile for everyday use.</string>
+    <string name="motion_level_reduced">Reduced effects</string>
+    <string name="motion_level_reduced_summary">Keep gentle fades while reducing movement.</string>
+    <string name="motion_level_off">Animations off</string>
+    <string name="motion_level_off_summary">Switch pages immediately with no interface animation.</string>
+    <string name="easter_egg_brand_title">Easter egg found</string>
+    <string name="easter_egg_brand_message">Blue, red, yellow, and green are all here. ZMCL is charging up for your next adventure.</string>
+    <string name="easter_egg_developer_title">A note from the developer</string>
+    <string name="easter_egg_developer_message">Thanks for exploring ZMCL so carefully. May every launch feel smoother than the last. - zhangyuhexht</string>
+</resources>
